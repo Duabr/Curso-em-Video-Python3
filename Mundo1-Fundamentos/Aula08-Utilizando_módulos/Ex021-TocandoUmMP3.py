@@ -6,5 +6,5 @@ from time import sleep
 
 print('\033[1;31mPATOMOSTIO INTENSIFIES\033[m')
 sleep(0.5)
-playsound('C:\workspace\Curso-em-Video-Python\Mundo_1\Aula_08\Ex_021_audio.WAV')
+playsound('C:\Trabaio\Curso-em-Video-Python3\Mundo-1\Aula-08\Ex021-audio.wav')
 # É necessário apenas colocar o local do áudio como argumento na única função da biblioteca, também chamda "Playsound".
