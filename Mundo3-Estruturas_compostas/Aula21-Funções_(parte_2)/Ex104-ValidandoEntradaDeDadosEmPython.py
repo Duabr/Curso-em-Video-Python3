@@ -6,7 +6,7 @@ def leiaint(msg):
     será aceito. Continua lendo o valor até ele ser considerado válido.
 
     Args:
-        msg (literal): mensagem de output.
+        msg (str): mensagem de output.
 
     Returns:
         int: número inteiro digitado.
@@ -17,7 +17,7 @@ def leiaint(msg):
         if not n.isnumeric():
             print('\033[1;31mValor inválido.\033[m')
             sleep(1)
-    return n
+    return int(n)
 
 
 n = leiaint('Digite um número inteiro: ')

@@ -1,0 +1,8 @@
+NOME                          IDADE
+Guanabara                     18
+João                          22
+Jana                          12
+Andressa                      36
+Sócrates                      38
+Maria                         24
+Jucelino                      67
