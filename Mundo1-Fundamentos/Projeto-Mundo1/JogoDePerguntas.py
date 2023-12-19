@@ -408,7 +408,7 @@ Digite o número da alternativa: '''))
     del erra_pergunta[pergunta]
 
     pergunta = randint(0, 20)
-    chute = int(input(f'''\033[1;34m10º e ÚLTIMA perguntna pergunta:\033[m {perguntas[pergunta]}
+    chute = int(input(f'''\033[1;34m10º e ÚLTIMA pergunta:\033[m {perguntas[pergunta]}
 Digite o número da alternativa: '''))
     if chute == respostas[pergunta]:
         print('\033[1;32mResposta correta!\033[m')
