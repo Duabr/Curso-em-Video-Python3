@@ -1,5 +1,5 @@
 # Pequeno sistema de cadastros de pessoas, salvando o nome e idade de cada um em um arquivo de texto.
-# Com essse sistema será possível cadastrar uma pessoa nova e ver a lista de todos cadastros.
+# Com essse sistema será possível cadastrar uma pessoa nova e ver a lista de todos os cadastros.
 from modulos import *
 from time import sleep
 try:
